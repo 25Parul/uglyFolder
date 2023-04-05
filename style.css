@@ -1,0 +1,47 @@
+h1 {
+    background-color: yellow;
+    display:flex;
+    align-items: center;
+    font-size: 300%;
+    width:100%;
+    min-height: 6%;
+    border: blue double 10px;
+    color:blue;
+    
+    
+}
+
+body{
+    background-image: url('https://media.tenor.com/DiiE30jLhzQAAAAC/spiral-psychedelic.gif');
+    display: flex;
+}
+
+div {
+    width:80%;
+    margin:auto;
+    /*setting margin: auto; on a div with a fixed width will center it horizontally within its parent container. */
+    padding:8%;
+    min-height: 80%;
+    font-size: 300%;
+    font-style: italic;
+    font-family: fantasy;
+    color:#F6358A;
+    background-image: url("https://phoneky.co.uk/thumbs/screensavers/down/places/421853_LlvDnXCK.gif");
+    border: black 10px solid;
+}
+
+nav {
+    margin: 2%;
+}
+
+p {
+    background-color: aliceblue;
+    padding: 2%;
+}
+
+iframe {
+    display:block;
+    margin:auto;
+    border: black
+
+}
